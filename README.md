@@ -102,7 +102,7 @@ I've setup an example project to show how to use this as a static library. You s
 Linux support. There is a partial unix implementation, but it is not well tested. Please contribute or report bugs.
 
 # License
-MIT - Please consider donating
+MIT - Please consider contributing
 
 # Resource &/| references
 evolution536, DarthTon, IChooseYou on Unknowncheats.me
